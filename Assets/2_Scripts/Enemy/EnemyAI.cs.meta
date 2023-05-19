@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f9c85c73351e644095272a9be8d8f54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionPrefab: {fileID: 8302248521259359076, guid: 7f621ae0aaa4f0449b9b3a7a57642303,
+      type: 3}
+  - LazerBurn: {fileID: 2402812829632687575, guid: d3c7118d6ad734e4288844fc4c2c93a9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
